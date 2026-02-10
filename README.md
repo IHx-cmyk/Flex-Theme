@@ -87,6 +87,14 @@ Script ini akan menginstall plugin berikut secara otomatis:
 - zsh-z (Navigasi cepat)
 - fzf-tab (Tab completion modern)
 
+---
+
+## 🔮 Free Tools
+Dalam Repo ini ada script atau tools gratis bagi pengguna, Free nya ada:
+- **Flex-Net** Tools script free untuk Networking atau testing internet simple
+- **Bot Whatsapp** Script Bot Whatsapp simple dengan auth pairing code, dan Type Case;Break
+
+---
 ## 📝 Credits
 Author : Ihsann
 
