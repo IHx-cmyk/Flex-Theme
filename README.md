@@ -22,18 +22,35 @@ Dilengkapi dengan banner bergaya Box (MyTermux Style), plugin manajemen yang sta
 ---
 
 ## 📸 Preview
+```text
+   _____  _                              
+  |__   || |__   ___  __ _  _ __   _ __  
+    | |  | '_ \ / __|/ _` || '_ \ | '_ \ 
+    | |  | | | |\__ \ (_| || | | || | | |
+    |_|  |_| |_||___/\__,_||_| |_||_| |_|
+
+╭──────────────────────────────────────────────────╮
+│ OS System  : Linux Android (aarch64)             │
+│ Kernel     : 4.19.113                            │
+│ User       : Ihsann                              │
+│ Uptime     : 2 hours, 10 minutes                 │
+│ Packages   : 420 (pkg)                           │
+├──────────────────────────────────────────────────┤
+│ Flex-Theme Loaded • 15 Plugins                   │
+╰──────────────────────────────────────────────────╯
 ```
-|__   || |__   ___  __ _  _ __   _ __ | |  | '_ \ / |/ ` || ' \ | ' 
-| |  | | | |_ \ (| || | | || | | | ||  || |||/,||| |||| ||
-╭──────────────────────────────────────────────────╮ │ OS System  : Linux Android (aarch64)             │ │ Kernel     : 4.19.113                            │ │ User       : Ihsann                              │ │ Uptime     : 2 hours, 10 minutes                 │ │ Packages   : 420 (pkg)                           │ ├──────────────────────────────────────────────────┤ │ Flex-Theme Loaded • 15 Plugins                   │ ╰──────────────────────────────────────────────────╯
-```
+
 
 ---
 
 ## 📥 Cara Install
 
-1. Download atau clone repository ini, atau buat file `install.sh` secara manual.
-2. Berikan izin eksekusi:
+Download atau clone repository ini
+   ```bash
+   git clone https://github.com/IHx-cmyk/Flex-Theme
+   cd Flex-Theme
+   ```
+Berikan izin eksekusi:
    ```bash
    chmod +x install.sh
    ```
@@ -46,6 +63,7 @@ Atau langsung:
 bash install.sh
 ```
 Ikuti instruksi di layar (masukkan nama custom kamu).
+
 Restart terminal, atau jalankan:
 ```Bash
 source ~/.zshrc
@@ -60,7 +78,7 @@ Jika ingin kembali ke tampilan default, jalankan:
 bash remove.sh
 ```
 ---
-##🔌 Daftar Plugin
+## 🔌 Daftar Plugin
 Script ini akan menginstall plugin berikut secara otomatis:
 - zsh-syntax-highlighting
 - zsh-autosuggestions
@@ -71,5 +89,7 @@ Script ini akan menginstall plugin berikut secara otomatis:
 
 ## 📝 Credits
 Author : Ihsann
+
 Theme  : Powerlevel10k by Romkatv
+
 Shell  : Oh My Zsh
